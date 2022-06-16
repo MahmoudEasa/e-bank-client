@@ -1,1 +1,1 @@
-export const URL = "https://e-bank-1fd.herokuapp.com";
+export const URL = "https://e-bank-system2.herokuapp.com";
